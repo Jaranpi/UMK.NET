@@ -1,0 +1,55 @@
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe.config
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.pdb
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.baml
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.g.cs
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\App.g.cs
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.cache
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.g.resources
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.Properties.Resources.resources
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csproj.GenerateResource.Cache
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.exe
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.pdb
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.lref
+C:\Users\pk\Desktop\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csprojResolveAssemblyReference.cache
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe.config
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.exe
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.pdb
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.pdb
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csprojResolveAssemblyReference.cache
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.g.cs
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\App.g.cs
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.cache
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.lref
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.baml
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.g.resources
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.Properties.Resources.resources
+c:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csproj.GenerateResource.Cache
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\pk\Documents\Visual Studio 2013\Projects\KoloryWPF\KoloryWPF\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Programs\progr\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe.config
+C:\Programs\progr\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.exe
+C:\Programs\progr\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.pdb
