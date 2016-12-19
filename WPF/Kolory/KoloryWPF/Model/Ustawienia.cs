@@ -9,6 +9,7 @@ namespace KoloryWPF.Model
 {
     static class Ustawienia
     {
+        //github test for Ustawienia
         public static Kolor Czytaj()
         {
             Properties.Settings s = Properties.Settings.Default;
